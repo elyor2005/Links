@@ -125,7 +125,7 @@ export const Component = () => {
       link: "https://t.me/abdufattokh0v",
     },
     {
-      src: "/public/assets/photo_2024-11-16_12-58-23.jpg",
+      src: "public/assets/photo_2024-11-16_12-58-23.jpg",
       alt: "Tg-chanel",
       link: "https://t.me/+a8Z8yBGWw6Q5ZTli",
     },
